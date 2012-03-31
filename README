@@ -1,0 +1,6 @@
+Arduino-based reflow oven shield based on the Rocketscream Reflow Shield- 
+
+http://www.rocketscream.com/shop/reflow-oven-controller-shield-arduino-compatible
+
+This design is based around an etchable shield that takes an Arduino Pro
+as the driver board. As opposed to an Uno in order to save cash.
